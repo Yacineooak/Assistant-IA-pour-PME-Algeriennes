@@ -11,6 +11,9 @@ Cette application est un assistant IA complet conçu spécifiquement pour les pe
 - Actions rapides pour les tâches courantes
 - Insights générés par l'IA
 - Alertes et notifications importantes
+![localhost_2025-08-02_22-40-39_6962](https://github.com/user-attachments/assets/f56367a2-ebab-4ad8-8ca9-5b116c378393)
+![localhost_2025-08-02_22-40-47_9917](https://github.com/user-attachments/assets/ed66e22a-dc11-4cbc-98ae-459f38bd2d04)
+![localhost_2025-08-02_22-47-22_1074](https://github.com/user-attachments/assets/7162f13b-c027-4885-8cb7-e985adc260f3)
 
 ### 📊 Analyse de marché
 - Tendances du marché en temps réel
