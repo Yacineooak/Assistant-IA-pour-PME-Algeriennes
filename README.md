@@ -210,9 +210,9 @@ Propriétaire - Tous droits réservés
 
 ## Contact
 
-Pour toute question ou support technique, contactez l'équipe de développement.
+Pour toute question ou support technique, contactez moi sur stylebenderkh@gmail.com ou sur +213 541 09 59 03
 
 ---
 
-*Développé avec ❤️ pour les PME algériennes*
+*Développé avec ❤️ par Yacine Khaldi pour les PME algériennes*
 
